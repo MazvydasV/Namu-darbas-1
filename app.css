@@ -1,0 +1,100 @@
+body {
+    margin: 0px;
+    background-color: cadetblue;
+}
+.photo1 {
+    width: 300px;
+    height: auto;
+    float: right;
+}
+.photo2 {
+    width: 150px;
+    height: auto;
+    float: top;
+}
+.photo3 {
+    width: 300px;
+    height: auto;
+    float: right;
+}
+.photo4 {
+    width: 150px;
+    height: auto;
+    float: top;
+}
+.main {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    row-gap: 10px;
+    column-gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.container1 {
+    
+    text-align: left;
+    background-color: white;
+    width: 400px;
+    height: auto;
+    margin: 20px;
+    
+        
+}
+.container2 {
+    width: 200px;
+    height: auto;
+    background-color: white;
+    margin: 20px;
+
+}
+.container3 {
+    width: 400px;
+    height: auto;
+    background-color: white;
+    text-align: bottom;
+    margin: 20px;
+
+}
+.container4 {
+    width: 200px;
+    height: auto;
+    background-color: white;
+
+}
+.container5 {
+    width: 200px;
+    height: auto;
+    background-color: white;
+
+}
+.container6 {
+    width: 200px;
+    height: auto;
+    background-color: white;
+
+}
+.container7 {
+    width: 200px;
+    height: auto;
+    background-color: white;
+
+}
+.container8 {
+    width: 200px;
+    height: auto;
+    background-color: white;
+
+}
+.container9 {
+    width: 200px;
+    height: auto;
+    background-color: white;
+
+}
+p {
+    display: block;
+    font-size: 14px;
+    margin: 10px;
+}
