@@ -23,13 +23,14 @@ body {
     float: top;
 }
 .main {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     display: flex;
     row-gap: 10px;
     column-gap: 10px;
     flex-wrap: wrap;
     justify-content: center;
+    align-content: center;
 
 }
 .container1 {
@@ -40,6 +41,7 @@ body {
     height: auto;
     margin: 20px;
     
+    
         
 }
 .container2 {
@@ -47,6 +49,7 @@ body {
     height: auto;
     background-color: white;
     margin: 20px;
+    
 
 }
 .container3 {
@@ -55,42 +58,52 @@ body {
     background-color: white;
     text-align: bottom;
     margin: 20px;
+    align-self: left;
+    
 
 }
 .container4 {
     width: 200px;
     height: auto;
     background-color: white;
+    
 
 }
 .container5 {
     width: 200px;
     height: auto;
     background-color: white;
+    align-self: end;
+   
 
 }
 .container6 {
     width: 200px;
     height: auto;
     background-color: white;
+    align-self: end;
+    
 
 }
 .container7 {
     width: 200px;
     height: auto;
     background-color: white;
+    
 
 }
 .container8 {
     width: 200px;
     height: auto;
     background-color: white;
+    
 
 }
 .container9 {
     width: 200px;
     height: auto;
     background-color: white;
+    
 
 }
 p {
